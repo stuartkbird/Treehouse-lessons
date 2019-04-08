@@ -1,0 +1,36 @@
+<?php if (have_posts()): while (have_posts()): the_post()?>		Loop Starts
+
+<?php endwhile; else: ?>
+<p><?php_e ('Sorry, no posts match your criteria.') ?></p>		Loop Ends
+
+<?php get_header(); ?>
+	<?php if (have_posts()): while (have_posts()): the_post()?>
+		<h1>Index file<?h1>
+	<?php endwhile; else: ?>
+	<p><?php_e ('Sorry, no posts match your criteria.') ?></p>
+<?php get_footer(); ?>
+
+
+The WordPress loop is smart enough to know whether to display a single piece of content or loop through multiple pieces.
+True
+
+Complete the code for the shorthand loop below:
+<?php if (_______): _______(have_posts()): _______?>
+have_posts()	    while		   the_post()
+
+Fill out the blank(s) below:
+To echo out the link to a post or page within a loop you would use the ________() function.
+								       the_permalink
+
+At it's heart the WordPress loop is a series of conditional statements that look to see if content is available.
+True
+
+Fill in the blanks(s) below:
+The ___________() function will display the title of a blog post or page within the loop.
+    the_title
+
+When get_ appears before a function, it will not echo out the returned value.
+True
+
+The shorthand version of writing the loop lets us more easily write HTML code in our templates.
+True

@@ -1,0 +1,48 @@
+Categories in WordPress
+	Broad high level
+	2-8 categories per site
+	Posts require at least 1 category
+
+Tags in Wordpress
+	Specific, detailed level
+	Posts can have many tags
+	Optional
+
+Slug is the url friendly version of the name it is usually all lowercase and contains only letters, numbers and hyphens.
+
+gravitar.com - for reference
+
+Image optimisation
+The process of making images load faster on the web
+
+Installed theme
+	Uploaded to site and available for use
+	Find under appearance - themes
+	Installed does not mean active
+
+Active theme
+	Theme currently in use
+	Only one active theme at a time
+
+Preview option
+	Lets you test installed theme
+	Does not make active
+	Comes with live preview
+
+Finding themes
+	Theme companies
+	Theme marketplaces
+	Individual developer sites
+
+themeforest.net - for reference
+
+Common WordPress Plugins
+	Widget plugins
+	Social plugins
+	Backup and security
+	Media plugins
+	Custom post types and fields
+	Form plugins
+	Membership plugins
+	Seo and performance
+	E-commerce

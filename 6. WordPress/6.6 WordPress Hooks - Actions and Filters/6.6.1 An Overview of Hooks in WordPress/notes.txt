@@ -1,0 +1,11 @@
+WordPress Hooks - Actions and Filters
+
+Hook
+A generic term in WordPress that refers to places where you can add your own code or change what WordPress is doing or outputting by default.
+Two types of hooks exist in WordPress, Actions and Filters.
+
+Action
+Is a hook that is triggered at a specific time when WordPress is running and lets you take an action.
+
+Filter
+Allows you to get and modify WordPress data before it is sent to the database or the browser.

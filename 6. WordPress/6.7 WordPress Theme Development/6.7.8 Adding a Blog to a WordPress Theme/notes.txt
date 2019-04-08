@@ -1,0 +1,20 @@
+The _ template controls the blog listing page.
+home.php
+
+The _() function displays a shorthand verion of the _content.
+the_excerpt
+
+Using the function get_avatar() will echo out the avatar image of the author of a post or comment.
+False
+
+The _() function will echo out the categories for a post.
+the_category
+
+Often it is better to use the _() function instead of the_date() on blog post pages.
+the_time()
+
+What function would you use to display the feature image for a post?
+the_post_thumbnail()
+
+If you are going to code your own comments template, you will need to name the file _.php.
+comments.php

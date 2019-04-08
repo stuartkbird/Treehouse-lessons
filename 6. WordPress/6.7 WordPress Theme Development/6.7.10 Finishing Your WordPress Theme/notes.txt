@@ -1,0 +1,21 @@
+create_widget sidebar.php get_sidebar() sidebar-page.php
+
+<?php if( !dynamic_sidebar('page')):?>
+......
+<?php endif; ?>
+
+The _() function is added to the body tag to display helpful information about the page, template and user status.
+body_class
+
+Before launching your site, its a good idea to use a theme checker plugin.
+True
+
+The _()function loads the sidebar.php file.
+get_sidebar
+
+Depending on who your theme is built for, you may not have to complete all suggestions from a theme checklist 
+if you find the theme meets the required needs of the client.
+True
+
+Shortcodes can be a helpful tool for doing advance page layouts from within the admin area.
+True

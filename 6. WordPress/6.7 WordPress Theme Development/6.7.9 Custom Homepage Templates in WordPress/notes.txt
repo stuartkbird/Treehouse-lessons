@@ -1,0 +1,12 @@
+The _.php template controls a static homepage.
+front-page
+
+What parameter can we use with WP_Query to control the number of items listed?
+posts_per_page
+
+Write out a conditional statement that test if a page is the front page in WordPress.
+if( is_front_page())
+
+It is important to test your theme with both a static homepage and blog listing homepage
+if you are releasing to the general public.
+True

@@ -1,0 +1,20 @@
+header.php footer.php
+getheader getfooter
+
+What default template controls the header of a WP site?
+header.php
+
+What function do you use to include the header template?
+get_header()
+
+For you site to work properly with WP and plugins , you must
+include the ________() function before the closing of the HTML
+head tag in the header template.
+wp_head()
+
+What is the correct name for the default footer template in WP?
+footer.php
+
+What function must you include in your footer template before
+the closing of the HTML body tag?
+wp_footer

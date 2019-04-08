@@ -1,0 +1,20 @@
+What is WP template hierarchy?
+A list of all files in custom theme folder.
+
+What function do we use to tell WP where our JS files are located?
+wp_enqueue_script()
+
+What WP function do we use in the function.php to tell our theme where our stylesheets are?
+wp_enqueue_style()
+
+Where is the best place to load the JS for your theme?
+function.php
+
+What should we do with the main css from our static theme?
+Copy and paste into our style.css under the comment.
+
+Where is the best place to load your css in a WP theme?
+function.php
+
+When working with JQuery and WP, you should wrap you code in a ___ wrapper?
+noconflict

@@ -1,0 +1,17 @@
+Migrating WordPress
+
+There will come a time when you need to move your WordPress site from one environment to another.
+Perhaps you've finished building you local WordPress site, and you're ready to migrate to a live server.
+When moving WordPress installations, you'll be working with two separate areas: the files and the database content.
+
+FTP - File Transfer Protocol
+
+Web Accessible Folder
+	www
+	web
+	public
+	public_html
+
+If you use the one step install
+	DO NOT overide the wp_config file
+	DO check the WP_HOME and WP_SITEURL variables

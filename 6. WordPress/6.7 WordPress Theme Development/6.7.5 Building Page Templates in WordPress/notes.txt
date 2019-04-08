@@ -1,0 +1,10 @@
+When we create a custom page template, we need to add a name for the template 
+in a special php comment at the top of the page.
+True
+
+What file is most often used to control static oages in WordPress?
+page.php
+
+When working with the Loop in page templates, it's important to check that you 
+have your opening and closing HTML tags in the correct places.
+True

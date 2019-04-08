@@ -1,0 +1,26 @@
+wp_nav_menu
+add_theme_support('menus');
+function register_theme_menus()
+{
+	register_nav_menus(
+		array(
+			'primary-menu' => _(Primary Menu)));
+}
+
+<body <?php body_class();?>>
+
+Fill in the blank(s) below:
+The ______() function is used to display menus in a template.
+wp_nav_menu
+
+What function and parameter do we need to use in order for our theme to work 
+with custom menus?
+add_theme_support('menus')
+
+Fill in the blank(s) below:
+The ______() function is used in the functions.php file for creating new menus for a theme.
+register_nav_menus()
+
+What wp_nav_menu setting can we use in order to prevent our menu from being displayed inside
+of a containing element?
+'container'=> false

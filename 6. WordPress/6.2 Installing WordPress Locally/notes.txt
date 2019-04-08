@@ -1,0 +1,33 @@
+WP
+
+Local Development
+Pros
+	Run it on your computer
+	Free
+	Faster to make changes
+	Do not need internet connection
+
+Cons
+	Others cannot view site
+	Some plugins may not work
+
+Remote Development
+Pros
+	Other people can view you site
+
+Cons
+	Have to pay for hosting
+	Need internet connection
+
+
+
+Items needed to install WordPress
+	PHP
+	MySQL database
+	WordPress files
+
+/*---Look at MAMP---*/
+
+WP Setup Wizard
+	Database information
+	Basic Site information

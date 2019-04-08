@@ -1,0 +1,20 @@
+What is WordPress?
+	WordPress is a content managment system (CMS)
+	Allows for plugins to extend the functionality
+	Powers a large portion of the web
+	Thousands of themes and plugins available
+	Large community around WP with lots of support
+	Open source project
+	Security and new feature release updates
+	Automattic and Matt Mullenweg
+	
+Why use WP?
+	WordPress is a CMS
+	It's free
+	Huge community
+	Plugins
+	Themes
+
+Should I use WP?
+	Usually yes - especially if you have the help of a developer
+

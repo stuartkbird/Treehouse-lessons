@@ -1,0 +1,22 @@
+<?php
+	$args = array(
+		'post_type=> 'portfolio');
+
+	$query = new WP_Query( $args );
+
+?>
+
+It is not recommended to add the code for custom post types to your themebecause someone can switch themes and lose access to their content.
+True
+
+If you want to use featured images on your site you have to add theme support for them in your functions.php file.
+True
+
+The ____() object lets us create custom loops in WordPress.
+wp_query
+
+What parameter would we use in order to display a custom post type of 'portfolio' in our loop?
+'post_type' => 'portfolio'
+
+What would you name the single template file for a custom post type named 'music'? _______.php
+single-music

@@ -1,0 +1,47 @@
+PHP for WordPress
+
+WordPress + PHP
+	Save content to a database
+	Read content from a database
+	Write loops and conditional statements
+	Pull in WordPress specific information
+	Pull in images, PHP, CSS, and JavaScript files
+
+PHP has three different types of files:
+
+Core files - 	usually contain only php code and are not files
+		that you should be editing since they might
+		break your WordPress install.
+
+Theme files - 	these contain a combination of php and html and
+		are the most common types of files that you'll
+		find yourself editing.
+
+Plugin files -	these contain primarily php code although they
+		may have some html, css and javascript mixed in
+		with them. You do not generally edit plugin files
+		unless you are building a plugin yourself.
+
+You open and close a PHP block like this:
+
+<?PHP
+
+//php code goes here
+echo "Hello WordPress!"
+
+?>
+
+or 
+
+<?PHP echo "Hello WordPress!" ?>
+
+codex.wordpress.org/template_tags - reference
+
+(Psuedo code)
+
+If (there are posts)
+	echo post title
+	echo post content
+
+Else
+	echo "sorry, no posts are available"
