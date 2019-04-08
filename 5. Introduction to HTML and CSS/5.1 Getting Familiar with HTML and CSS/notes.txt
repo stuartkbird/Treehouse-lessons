@@ -1,0 +1,16 @@
+html - hyper text markup language
+is simply a set of tags we use to describe to the browser how our webpages are structured.
+we do this by surrounding the content of our webpages with these html tags.
+
+css - cascading style sheets
+we use css to tell the browser what we want the content between the tags to look like.
+
+
+Web development is often split into two areas, front end development and back end development.
+Front end developers use html, css and javascript to build what the client sees.
+The stuff that runs on the browser.
+
+Back end developers are responsible for what runs on the server.
+They use languages like python, ruby, and java to work with databases to save, change, and retrieve data.
+
+

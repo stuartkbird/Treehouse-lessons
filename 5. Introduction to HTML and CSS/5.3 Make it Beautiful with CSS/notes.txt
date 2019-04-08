@@ -1,0 +1,4 @@
+each block of css is called a css rule
+
+reference site css-tricks.com
+

@@ -1,0 +1,22 @@
+outer most box is <html> - contains everything
+head box - contains some behind the scenes info
+body box - contains everything you see in the browser
+	i.e. - header main & footer
+
+* / is forward slash, \ is back slash *
+
+Most html tags can have additional information called attributes added to them.
+An attribute provides instructions for the browser.
+e.g. <img> tag can have 3 - src="" alt="" and class=""
+src = source
+alt = alternative text (used by search engines and screen readers)
+
+<img> is a self closing tag, so is <link>
+
+placeimg.com library of random images that can be used as placeholder images.
+
+<a></a> anchor tag creates clickable link
+href = hypertext reference
+
+ol = ordered list, numbered.
+ul = unordered list, bulleted.
