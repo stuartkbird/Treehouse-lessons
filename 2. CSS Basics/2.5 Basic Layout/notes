@@ -1,0 +1,105 @@
+/* Width & Height */
+
+.arrow {
+    width: 50px;
+}
+
+/* Box-sizing & Max-width */
+
+.arrow {
+    width: 50px;
+    box-sizing: border-box;
+    max-width: 900px;
+}
+
+/* Backgrounds: Color and Images */
+
+.arrow {
+    width: 50px;
+    box-sizing: border-box;
+    max-width: 900px;
+    background-image: url('img/example.jpg');
+    background-size: 40%;
+    background-repeat: repeat;
+}
+
+/* Backgrounds: Size and Position */
+
+.arrow {
+    width: 50px;
+    box-sizing: border-box;
+    max-width: 900px;
+   
+    
+    background-position: center top; // x axis and y axis. center only places x/y axis equal and center
+    background: #ffa949 url('img/example.jpg') no-repeat center;
+    background-size: cover;
+    
+    
+}
+
+/* Floats */
+
+.resorts, .tips {
+    width: 46.5%;
+}
+
+.tips {
+    float: right;
+}
+
+.resorts {
+    float: left;
+}
+
+
+/* Clearing Floats */
+
+.group: after {
+    content: "";
+    display: table;
+    clear: both;
+
+}
+
+
+/* Lists */
+
+ul {
+    list-style-type: square; // none turns off the bullet points
+}
+
+ol {
+    list-style-type: decimal-leading-zero; // numbered bullets are preceeded with a zero i.e. 01, 02, 03 etc
+}
+
+li {                            // selects all listed items
+    border: 1px solid #000;
+}
+
+
+ul,
+ol {
+    list-style-position: inside;
+    padding-left: 0; // removes default indent on left side
+    margin-left: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

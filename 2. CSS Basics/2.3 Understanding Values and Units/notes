@@ -1,0 +1,9 @@
+#ff0033
+#000000
+text-transform: capitalize;
+text-decoration: underline // adds underline
+font-weight: normal // changes text to normal i.e. not bold, etc.
+font-family: Helvetica, Arial, sans-serif;
+font-style: oblique or italic or normal
+line-height: 
+font: normal 1em/1.5 "Helvetica Neue", Arial, sans-serif; // combines font elements

@@ -1,0 +1,106 @@
+
+/* PADDING */
+.wildlife {
+    color: white;
+    background-color: #434a52;
+    
+    padding-top: 100px;
+    padding-right: 120px;
+    padding-bottom: 100px;
+    padding-left: 120px;
+    
+    padding: 100px 120px; // first value for top and bottom, second value for left and right
+    padding: 100px 120px 100px 120px; // top right bottom left i.e clockwise from top
+}
+
+So if values here: 
+    padding-top: 100px;
+    padding-right: 120px;
+    padding-bottom: 100px;
+    padding-left: 120px;
+
+Match values here:
+padding: 100px 120px 100px 120px;
+
+Then you can delete:
+    padding-top: 100px;
+    padding-right: 120px;
+    padding-bottom: 100px;
+    padding-left: 120px;
+    
+    Padding value can also be in %
+    
+/* BORDER */    
+.wildlife {
+    color: white;
+    background-color: #434a52;
+    padding: 100px 120px;
+    
+    border-width: 10px;
+    border-style: dotted;
+    border-color: #ffa949;
+    
+    border: 10px solid #ffa949;
+}
+
+/* MARGIN */
+.wildlife {
+    color: white;
+    background-color: #434a52;
+    padding: 100px 120px;
+    border: 10px solid #ffa949;
+    
+    margin: 105px 0 60px 0; // top right bottom left
+    //above can be shortened to 105px 0 60px
+    
+}
+
+/* DISPLAY VALUES*/
+.wildlife {
+    color: white;
+    background-color: #434a52;
+    padding: 100px 120px;
+    border: 10px solid #ffa949;
+    margin: 105px 0 60px;  
+    
+    display: ;//none, block, inline and inline block
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
