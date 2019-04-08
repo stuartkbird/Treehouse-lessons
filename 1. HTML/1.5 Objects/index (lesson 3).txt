@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>My Page</title>
+
+</head>
+
+<body>
+<p>Here is index.html</p>
+<iframe width="300" height="300" src="another_page (lesson 3).html"></iframe>
+</body>
+</html>

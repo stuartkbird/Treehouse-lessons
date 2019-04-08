@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>My Page</title>
+</head>
+
+<body>
+<p>Here are some flowers.</p>
+<img src="flowers.jpg" alt="Flowers blooming in the warm sunlight." title="Flowers blooming in the warm sunlight.">
+<p>Aren't they nice?</p>
+</body>
+</html>

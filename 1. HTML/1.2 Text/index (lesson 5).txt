@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>My Page</title>
+</head>
+
+<body>
+
+<p>I know how to use <abbr title="self-contained underwater breathing apparatus">SCUBA</abbr> gear.</p> 
+
+<address>
+Stuart<br>
+123 Example Street<br>
+The Moon
+</address>
+
+<p>My favourite book is <cite>A Tale of Two Cities</cite> by Charles Dickens.</p>
+
+<p>think<wbr>vitamin.com</p>
+
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>My Page</title>
+</head>
+
+<body>
+
+<p>Another page</p>
+
+<a href="index (lesson 2).html">Go Back</a>
+
+</body>
+</html>
