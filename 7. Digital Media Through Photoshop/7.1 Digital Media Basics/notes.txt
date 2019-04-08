@@ -1,0 +1,108 @@
+ppi - pixels per inch
+screen sizes are taken from a diagonal measurement
+pixels aren't the same size on all devices
+the closer the eye is to the screen, the smaller the pixel is supposed to be.
+you shouldn't be able to see the pixels on a phone or tv
+
+images or graphics have both pixel dimensions as we as pixel density
+that make up the resolution of the image
+
+a single pixel is made up of subpixels which give us the colours
+a combination of red green and blue
+
+cmyk - cyan, magenta, yellow, black are used to replicate colours when printing
+
+the quality of a printed image depends on
+	one - the image resolution, or pixel density
+	two - the capabilities of the printer
+
+printers print in dots not pixels
+dpi - dots per inch
+
+		Print		Display
+PPI		150-300		n/a
+Colour		CMYK		RGB
+
+pixels are the smallest unit of measurement for any display
+ppi and dpi are often used interchangably
+increasing the ppi of an image does not increase the resolution
+
+Common Colour Spaces
+	Prophoto RGB
+		great for high-end photography and very fine colour adjustments.
+
+		almost always requires exporting to a smaller colour profile.
+		the software will re-map to a different colour mode as best it can.
+
+	Adobe RGB
+		common for photo editing and adjustments.
+
+		many digital cameras support JPG photos in this profile.
+
+		export to CMYK for printing.
+
+		some printing presses may accept Adobe RGB.
+		
+	sRGB
+		best for the widest variety of displays and the web.
+
+	CMYK
+		best when setting a file up for print.
+
+Colour space determines the range of colour and tones represented in an image file. True.
+
+
+Raster Images
+Raster images are a grid of individual pixels that make up an entire image.
+Photos are the best example
+
+Common file extensions are:
+	.jpg
+	.tiff
+	.gif
+	.bmp
+	.psd (photoshop)
+
+Vector Graphics
+Vector graphics are made up of lines, commonly referred to as paths, that contain specified points to create the shapes that make up
+the graphic.
+They are only created through applications - cannot take a vector photo.
+
+Common examples are app icons or company logos.
+Common file extensions are:
+	.eps
+	.svg
+	.ai (adobe)
+	.pdf - not graphics but can contain graphics
+
+
+			Raster		Vector
+Print			Y		Y			
+Display			Y		Y
+Icons					Y
+Logos					Y
+UI Prototyping				Y
+Fixed-sized web assets	Y
+Responsive web assets			Y
+Typeface				Y
+
+
+The smaller the ppi of an image, the larger the print of the image but at reduced resolution
+Adjusting the ppi will also adjust the quality of an image on display. False.
+300x300 pixel image will use the same number of pixels on any display. True.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
